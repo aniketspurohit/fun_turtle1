@@ -1,3 +1,3 @@
 # fun with turtle in python
 
-Python turtle to create illustrative 2-D designs.
+Python turtle codes to create illustrative 2-D designs.
